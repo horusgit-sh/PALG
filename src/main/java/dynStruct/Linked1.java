@@ -1,4 +1,4 @@
-package dynStruct;
+package main.java.dynStruct;
 
 public class Linked1 {
     private Elem1 head;

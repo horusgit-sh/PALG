@@ -1,4 +1,4 @@
-package dynStruct;
+package main.java.dynStruct;
 
 public class Elem1 {
     private int data;
