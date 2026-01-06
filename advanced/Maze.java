@@ -74,7 +74,7 @@ public class Maze {
         for (int k = 1; k < dim*dim; k++)
         {
             for (int x = 0; x < dim; x++)
-            for (int y = 0; y < dim; y++)
+                for (int y = 0; y < dim; y++)
             {
                 if (maze[x][y] == k)
                 {
